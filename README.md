@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @iamiftikhara
+- 👋 Hi, I’m Iftikhar Ahmad
 - 👀 I’m interested in Developing and Designing new Softwares as well as in Cyber Security
-- 🌱 I’m currently learning Node js, C# and IT security
+- 🌱 I’m currently learning AI , Python and IT security
 - 💞️ I’m looking to collaborate on any java, javascript, Wordpress and Pythone related projects
 - 📫 How to reach me you can leave me a message on mail (iftikharahmad.it@gmail.com)
 
