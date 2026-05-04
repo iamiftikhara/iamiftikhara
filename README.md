@@ -11,7 +11,7 @@
   <a href="mailto:iftikharahmad.it@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%7C+4%2B+Years+Experience;React+%7C+Next.js+%7C+Node.js+%7C+Python+%7C+Shopify;AI+Integration+%7C+Chatbot+Development;CEO+%40+Rise+With+Code+%F0%9F%9A%80+%7C+London%2C+UK;Tech+Marathon+Winner+%7C+IEEE+Volunteer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%7C+4%2B+Years+Experience;React+%7C+Next.js+%7C+Node.js+%7C+Python+%7C+Shopify;AI+Integration+%7C+Chatbot+Development;CEO+%40+Rise+With+Code+%F0%9F%9A%80+%7C+Quetta%2C+Pakistan;Tech+Marathon+Winner+%7C+IEEE+Volunteer" alt="Typing SVG" />
 
 </div>
 
@@ -23,12 +23,13 @@ Full Stack Developer with **4+ years** of experience in web development, AI inte
 
 | | |
 |---|---|
-| 🏢 **CEO & Co-Founder** | [Rise With Code](https://risewithcode.com) · London, UK |
+| 🏛️ **Software Engineer / Full-Stack & DB Lead** | Balochistan P&D Department (BSDI) · Quetta, Pakistan |
 | 💼 **Web Developer & Designer** | Broadstone Technologies · Lahore, Pakistan |
 | 🔭 **Currently Building** | [Cytex](https://cytex.io/) — Cybersecurity Application |
 | 🌱 **Exploring** | Machine Learning & Deep Learning |
 | 🎓 **B.Sc. Software Engineering** | BUITEMS · Graduated 2022 |
 | ⚡ **Fun Fact** | I will code for a cup of coffee ☕ |
+| 🏢 **CEO & Co-Founder** | [Rise With Code](https://risewithcode.com) · Quetta, Pakistan |
 
 ---
 
@@ -82,7 +83,8 @@ Full Stack Developer with **4+ years** of experience in web development, AI inte
 ## Career Timeline
 
 ```
-2024–Present  CEO & Co-Founder ............. Rise With Code (London, UK)
+2025–Present  Software Engineer / Full-Stack & DB Lead  Balochistan P&D Dept. (BSDI)
+2024–Present  CEO & Co-Founder ............. Rise With Code (Quetta, Pakistan)
 2022–Present  Web Developer & Designer ..... Broadstone Technologies (Lahore, Pakistan)
 2022–2025     Full Stack Developer ......... Rutland London (London, UK)
 2019–2023     Software Developer & AI Eng.. Fiverr & Upwork (Freelance, Remote)
@@ -98,6 +100,21 @@ Full Stack Developer with **4+ years** of experience in web development, AI inte
   <img src="https://img.shields.io/badge/Team%20Members-15%2B-2ea44f?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Revenue%20Impact-%C2%A32M%2B-FF6B35?style=for-the-badge" />
 </p>
+
+---
+
+## Work Experience
+
+### 🏛️ Software Engineer / Full-Stack & Database Lead — Balochistan P&D Department (BSDI)
+**Nov 2025 – Present · Quetta, Pakistan**
+
+Leading architecture and development of government digital platforms across education, healthcare, and infrastructure — supporting **250+ active government users**.
+
+- Leading end-to-end feature engineering using modern full-stack technologies, ensuring high performance, scalability, and maintainability
+- Designing and managing relational and NoSQL databases (PostgreSQL, MongoDB), implementing optimised schemas, indexing strategies, and secure data workflows
+- Administering Linux-based servers and Docker containerised environments, streamlining CI/CD pipelines and improving deployment efficiency
+- Enhancing system reliability through performance tuning, debugging, and fault-tolerant architecture design
+- Implementing secure authentication and access control mechanisms, ensuring data integrity and compliance for government systems
 
 ---
 
