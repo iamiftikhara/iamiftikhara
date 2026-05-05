@@ -1,4 +1,4 @@
-[<div align="center">
+<div align="center">
 
 # Iftikhar Ahmad
 
@@ -63,9 +63,9 @@ Full Stack Developer with **4+ years** of experience in web development, AI inte
 ---
 
 ## GitHub Stats
-
+<img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=iamiftikhara&data=followers,repositories,stars,commits&theme=darkmode" alt="GitHub Stats" />
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=iamiftikhara&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+ 
   <img width="49%" src="https://streak-stats.demolab.com?user=iamiftikhara&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
 </p>
 
@@ -166,4 +166,3 @@ Leading architecture and development of government digital platforms across educ
 <a href="https://risewithcode.com"><img src="https://img.shields.io/badge/Rise%20With%20Code-111827?style=for-the-badge&logoColor=white"/></a>
 
 </div>
-](https://seco-org.vercel.app/)
