@@ -33,3 +33,4 @@ jobs:
           plugin_languages: yes
           plugin_languages_limit: 8
           plugin_languages_ignored: html, css, scss, dockerfile, shell, powershell, batchfile
+          extras_css: ".calendar rect.day[fill='#ebedf0']{fill:#161b22}.calendar rect.day[fill='#9be9a8']{fill:#0e4429}.calendar rect.day[fill='#40c463']{fill:#006d32}.calendar rect.day[fill='#30a14e']{fill:#26a641}.calendar rect.day[fill='#216e39']{fill:#39d353}"
